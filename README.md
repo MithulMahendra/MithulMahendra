@@ -28,11 +28,6 @@ Hello everyone! I'm Mithul Mahendra from India. I am a **Passionate Programmer�
 <br>
 <br>
 
-## ✍️ My Favourite Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br>
-<br>
 
 ## 🙃 How is my Life?
 <img src="https://media0.giphy.com/media/2KAGlmkPywhZS/giphy.webp?cid=ecf05e470dyxq7b5iwooznimkq3majctikza56j5zy5y8rak&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="Meme" width="250" height="400">
