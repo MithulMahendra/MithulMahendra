@@ -9,7 +9,7 @@
 <br>
 
 ## 💫 Who Am I
-Hello everyone! I'm Mithul Mahendra from India. I am a **Passionate Programmer🧑‍💻 and an avid learner**📔 with a keen interest in Artificial Intelligence and Machine learning. I have a strong Knowledge in Python🐍 and I enjoy building innovative projects with it. I am currently learning all the necessary technical skills that are required to become a **Machine Learning engineer**🧑‍💻. I am open to collaborate with others to build innovative projects🎯 that will benefit the society. Also, I look forward to contribute to Open-Source projects. In addition to my technical skills, I have good communication skill, Creativity and Time Management skill⌚. I like learning new technologies and I constantly try to upskill myself. Besides learning, when I'm free, you can find me listening to music🎶.
+Hello everyone! I'm Mithul Mahendra from India. I am a **Passionate Programmer🧑‍💻 and an avid learner**📔 with a keen interest in Artificial Intelligence and Machine learning. I have a strong Knowledge in Python🐍 and I enjoy building innovative projects with it.I have interest in Software Engineering and Data Analysis🧑‍💻. I am open to collaborate with others to build innovative projects🎯 that will benefit the society.In addition to my technical skills, I have good communication skill, Creativity and Time Management skill⌚. I like learning new technologies and I constantly try to upskill myself. Besides learning, when I'm free, you can find me listening to music🎶.
 
 <br>
 <br>
@@ -27,16 +27,6 @@ Hello everyone! I'm Mithul Mahendra from India. I am a **Passionate Programmer�
 
 <br>
 <br>
-
-
-## 🙃 How is my Life?
-<img src="https://media0.giphy.com/media/2KAGlmkPywhZS/giphy.webp?cid=ecf05e470dyxq7b5iwooznimkq3majctikza56j5zy5y8rak&ep=v1_gifs_search&rid=giphy.webp&ct=g" alt="Meme" width="250" height="400">
-
-<br>
-<br>
-
-## 😂 Meme to cheer u up!
-<img src="https://miro.medium.com/v2/resize:fit:1280/0*09J7DozpiBdYccOR.png" alt="Meme" width="300" height="300">
 
 
 
